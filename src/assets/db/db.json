@@ -1,0 +1,10 @@
+{
+  "articles": [
+    {
+      "author": "test ",
+      "content": "Hello World !",
+      "date": 1651514270402,
+      "id": 1
+    }
+  ]
+}
